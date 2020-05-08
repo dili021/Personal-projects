@@ -1,3 +1,5 @@
+> [My résumé](https://docs.google.com/document/d/14THVufu_nc1EfBgCkGXKpnd1sd2GJh3EQYTZZ4-2SDE/edit?usp=sharing)
+
 # A list of my favorite personal projects
 
 
@@ -45,5 +47,4 @@
 - [Demo link](https://rawcdn.githack.com/dili021/Apple-clone/0547ad5f2d6ab3495494b2d9c694c80a7d477fee/index.html#)
 
 
-### [My résumé](https://docs.google.com/document/d/14THVufu_nc1EfBgCkGXKpnd1sd2GJh3EQYTZZ4-2SDE/edit?usp=sharing)
 
