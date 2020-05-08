@@ -11,7 +11,7 @@
 
 ## Coding bootcamp website
 - [Link to repo](https://github.com/dili021/Web-Dev-School)
-- [This](https://gifted-morse-5d1101.netlify.app/index.html) is a website for an imaginary coding bootcamp. A fully responsive website made as the capstone HTML & CSS project at [Microverse](https://microverse.org)
+- A [website](https://gifted-morse-5d1101.netlify.app/index.html) for an imaginary coding bootcamp. A fully responsive website made as the capstone HTML & CSS project at [Microverse](https://microverse.org)
 ##### Tech: HTML5 | CSS3 | SASS
 
 
