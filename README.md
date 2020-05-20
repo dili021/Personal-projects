@@ -17,33 +17,33 @@
 
 
 ## Newsweek
-- [Link to repo](https://github.com/dili021/Bootstrap)
 - A fully responsive clone of [Newsweek](https://www.newsweek.com/) built with bootstrap.
+- [Link to repo](https://github.com/dili021/Bootstrap)
 - [Demo link](https://nostalgic-galileo-51ff53.netlify.app/)
 ##### Tech: HTML5 | CSS3 | Bootstrap
 
 
 
 ## The Next Web 
-- [Link to repo](https://github.com/dili021/responsive-design)
 - A fully responsive clone of [The Next Web homepage](https://thenextweb.com/).
 - Has funny Jeff Bezos thumbnails :)
+- [Link to repo](https://github.com/dili021/responsive-design)
 - [Demo link](https://boring-euclid-37ebf1.netlify.app/)
 ##### Tech: HTML5 | CSS3
 
 
 
 ## NYTimes 
-- [Link to repo](https://github.com/dili021/NYC-Times-Article)
 - A non-responsive clone of [this article](https://www.nytimes.com/2014/03/18/science/space/detection-of-waves-in-space-buttresses-landmark-theory-of-big-bang.html?_r=0) from NYTimes
+- [Link to repo](https://github.com/dili021/NYC-Times-Article)
 - [Demo link](https://rawcdn.githack.com/dili021/NYC-Times-Article/12516d56368d62703137f8de7e841b8559f0320b/index.html)
 ##### Tech: HTML5 | CSS3
 
 
 
 ## Apple
-- [Link to repo](https://github.com/dili021/Apple-clone)
 - A clone of an archived apple campaign website.
+- [Link to repo](https://github.com/dili021/Apple-clone)
 - [Demo link](https://rawcdn.githack.com/dili021/Apple-clone/0547ad5f2d6ab3495494b2d9c694c80a7d477fee/index.html#)
 
 
