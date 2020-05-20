@@ -1,4 +1,4 @@
-> [My résumé](https://docs.google.com/document/d/14THVufu_nc1EfBgCkGXKpnd1sd2GJh3EQYTZZ4-2SDE/edit?usp=sharing)
+> [Resumé](https://docs.google.com/document/d/14THVufu_nc1EfBgCkGXKpnd1sd2GJh3EQYTZZ4-2SDE/edit?usp=sharing)
 
 # A list of my favorite personal projects
 
@@ -10,8 +10,9 @@
 
 
 ## Coding bootcamp website
+- A fully responsive website made for an imaginary coding bootcamp as the capstone HTML & CSS project at [Microverse](https://microverse.org)
 - [Link to repo](https://github.com/dili021/Web-Dev-School)
-- A [website](https://gifted-morse-5d1101.netlify.app/index.html) for an imaginary coding bootcamp. A fully responsive website made as the capstone HTML & CSS project at [Microverse](https://microverse.org)
+- [Demo](https://gifted-morse-5d1101.netlify.app/index.html)
 ##### Tech: HTML5 | CSS3 | SASS
 
 
@@ -19,7 +20,7 @@
 ## Newsweek
 - A fully responsive clone of [Newsweek](https://www.newsweek.com/) built with bootstrap.
 - [Link to repo](https://github.com/dili021/Bootstrap)
-- [Demo link](https://nostalgic-galileo-51ff53.netlify.app/)
+- [Demo](https://nostalgic-galileo-51ff53.netlify.app/)
 ##### Tech: HTML5 | CSS3 | Bootstrap
 
 
@@ -28,7 +29,7 @@
 - A fully responsive clone of [The Next Web homepage](https://thenextweb.com/).
 - Has funny Jeff Bezos thumbnails :)
 - [Link to repo](https://github.com/dili021/responsive-design)
-- [Demo link](https://boring-euclid-37ebf1.netlify.app/)
+- [Demo](https://boring-euclid-37ebf1.netlify.app/)
 ##### Tech: HTML5 | CSS3
 
 
@@ -36,7 +37,7 @@
 ## NYTimes 
 - A non-responsive clone of [this article](https://www.nytimes.com/2014/03/18/science/space/detection-of-waves-in-space-buttresses-landmark-theory-of-big-bang.html?_r=0) from NYTimes
 - [Link to repo](https://github.com/dili021/NYC-Times-Article)
-- [Demo link](https://rawcdn.githack.com/dili021/NYC-Times-Article/12516d56368d62703137f8de7e841b8559f0320b/index.html)
+- [Demo](https://rawcdn.githack.com/dili021/NYC-Times-Article/12516d56368d62703137f8de7e841b8559f0320b/index.html)
 ##### Tech: HTML5 | CSS3
 
 
@@ -44,7 +45,7 @@
 ## Apple
 - A clone of an archived apple campaign website.
 - [Link to repo](https://github.com/dili021/Apple-clone)
-- [Demo link](https://rawcdn.githack.com/dili021/Apple-clone/0547ad5f2d6ab3495494b2d9c694c80a7d477fee/index.html#)
+- [Demo](https://rawcdn.githack.com/dili021/Apple-clone/0547ad5f2d6ab3495494b2d9c694c80a7d477fee/index.html#)
 
 
 
