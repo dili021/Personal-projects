@@ -8,6 +8,10 @@
 ##### Tech: HTML5 | CSS3 | SASS
 
 
+## EZRecipeasy
+- A [social media network](https://ezrecipeasy.herokuapp.com) made for sharing recipes with a search by ingredient, and vote system implemented. 10 downvotes removes a recipe from the database, so only bring your A-game!
+#### Tech: Ruby on Rails | TailwindCSS | JavaScript | PostgreSQL | AWS S3
+
 
 ## Coding bootcamp website
 - A fully responsive website made for an imaginary coding bootcamp as the capstone HTML & CSS project at [Microverse](https://microverse.org)
